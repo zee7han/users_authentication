@@ -1,0 +1,19 @@
+{
+  "name": "users_authentication",
+  "version": "1.0.0",
+  "description": "A module for the users role based authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zee7han/users_authentication.git"
+  },
+  "author": "Mohammad Zeeshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zee7han/users_authentication/issues"
+  },
+  "homepage": "https://github.com/zee7han/users_authentication#readme"
+}
